@@ -2,7 +2,7 @@
 ![](https://github.com/tectijuana/fundamentos-de-git-Harim111611/blob/main/captura.PNG)
 
 
-#The Basics of GitHub 
+##The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
